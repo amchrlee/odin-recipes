@@ -1,0 +1,48 @@
+div {
+    background-color: #be3e1ea8;
+    color: #ffeeee;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 5px 25px 5px 25px;
+}
+
+body {
+    background-image: url("img/seamless-autumn-pattern.png");
+    height: 100%;
+    width: auto;
+    background-repeat: repeat;
+    margin: 25px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.thanksgiving-spread {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+}
+
+.green-bean-casserole, .roast-chicken, .corn-pudding {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: auto;
+}
+
+.turkey-bullet-recipe {
+    font-weight: 900;
+    font-size: 22px;
+    list-style: none;
+    text-align: center;
+}
+
+a:link, a:visited {
+    color: #ffeeee;
+}
+
+a:hover {
+    background-color: #58913c;
+}
